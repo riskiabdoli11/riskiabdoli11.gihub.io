@@ -2,6 +2,7 @@
 .jumbotron {
     padding-top: 5rem;
     background-color: #e2edff;
+   
 }
 
 .mygaleri {
@@ -9,4 +10,9 @@
 }
 section {
     padding-top: 5rem;
+}
+ 
+.card:hover {
+transform: scale(0.95);
+transition: 0.3s;
 }
